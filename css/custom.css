@@ -587,6 +587,14 @@
      margin: 0 10px;
      text-shadow: 1px 1px 1px #000;
 }
+#demo {
+    font-size: 30px;
+    color: #fff;
+    float: left;
+    margin: 0 80px;
+    text-shadow: 1px 1px 1px #000;
+    align-items: center;
+}
  .right-match-time > span {
      display: block;
      font-size: 20px;
