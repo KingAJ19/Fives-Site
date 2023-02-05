@@ -972,6 +972,26 @@
      background-size: cover;
      position: relative;
 }
+.inner-page-banner-1 {
+    float: left;
+    width: 100%;
+    min-height: 500px;
+    background-image: url('../images/team.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.inner-page-banner-2 {
+    float: left;
+    width: 100%;
+    min-height: 500px;
+    background-image: url('../images/pics.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
  .inner-information {
      float: left;
      width: 100%;
