@@ -1916,7 +1916,8 @@ body section#contant .post-info span h4 {
      .team-column {
          margin-bottom: 25px;
     }
-     #team-slider div.container {
+     
+    #team-slider div.container {
          padding: 0;
     }
      #team-slider div.container div.col-md-3 {
