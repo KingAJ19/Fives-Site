@@ -1917,6 +1917,13 @@ body section#contant .post-info span h4 {
          margin-bottom: 25px;
     }
      
+    #video {
+        
+        /* override other styles to make responsive */
+        width: 100%    !important;
+        height: auto   !important;
+          
+    }
     #team-slider div.container {
          padding: 0;
     }
