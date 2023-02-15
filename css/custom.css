@@ -1615,12 +1615,12 @@ body section#contant .post-info span h4 {
      font-weight: 600;
      font-size: 16px;
 }
- #contactform ul li input.thbg-color:hover,#contactform ul li input.thbg-color:focus {
+ /* #contactform ul li input.thbg-color:hover,#contactform ul li input.thbg-color:focus {
      background:#111;
-}
- section#contant .blog-sidebar div.category-menu ul li:last-child {
+} */
+ /* section#contant .blog-sidebar div.category-menu ul li:last-child {
      border-bottom:none;
-}
+} */
  .contact-info div.kode-section-title {
      float: left;
      width: 100%;
