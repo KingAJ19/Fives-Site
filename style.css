@@ -2120,6 +2120,22 @@ aside#sidebar .team-btw-match ul li.vs span {
 	border-radius: 50%;
 }
 
+.thbg-color {
+	background: #d8302f;
+	padding: 3px;
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: 600;
+	font-size: 16px;
+	border: solid #ccc 1px;
+}
+
+.thbg-color:hover,#contactform ul li input.thbg-color:focus {
+	background:#111;
+}
+
+
+
 .fa.fa-instagram {
 	color: transparent;
 	background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
