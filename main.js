@@ -1,7 +1,7 @@
-var countDownDate = new Date("March 25, 2023 18:00:00").getTime();
+var countDownDate = new Date("March 25, 2023 12:00:00").getTime();
 
 // Update the count down every 1 second
-var x = setInterval(function() {
+var x = setInterval(function () {
 
   // Get today's date and time
   var now = new Date().getTime();
@@ -17,7 +17,7 @@ var x = setInterval(function() {
 
   // Display the result in the element with id="demo"
   document.getElementById("demo").innerHTML = days + "d " + hours + "h "
-  + minutes + "m " + seconds + "s ";
+    + minutes + "m " + seconds + "s ";
 
   // If the count down is finished, write some text
   if (distance < 0) {
