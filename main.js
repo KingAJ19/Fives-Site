@@ -4,8 +4,8 @@ var countDownDate = new Date("July 08, 2023 18:00:00").getTime();
 var x = setInterval(function () {
 
   // Get today's date and time
-  var now = new Date().getTime(); 
-
+  var now = new Date().getTime();  
+ 
   // Find the distance between now and the count down date  
   var distance = countDownDate - now;
 
