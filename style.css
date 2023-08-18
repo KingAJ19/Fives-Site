@@ -1,32 +1,4 @@
-/*------------------------------------------------------------------
-    File Name: style.css
--------------------------------------------------------------------*/
 
-/*------------------------------------------------------------------
-    [Table of contents]
-
-    1. IMPORT FONTS
-    2. IMPORT FILES
-    3. SKELETON
-    4. WP CORE
-    5. HEADER
-    6. SECTIONS
-    7. SECTIONS
-    8. PORTFOLIO
-    9. TESTIMONIALS
-    10. PRICING TABLES
-    11. ICON BOXES
-    12. MESSAGE BOXES
-    13. FEATURES
-    14. CONTACT
-    15. FOOTER
-    16. MISC
-    17. BUTTONS
--------------------------------------------------------------------*/
-
-/*------------------------------------------------------------------
-    IMPORT FONTS
--------------------------------------------------------------------*/
 
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,600,700,900);
 @import url(https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,500,500i,600,600i,700,700i);
